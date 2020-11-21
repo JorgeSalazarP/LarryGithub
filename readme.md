@@ -3,6 +3,6 @@
 Esta saga de libros cuentan la historia de un hacker excepcional.
 
 
-**Jorge Salazar**
+**Jorge Salazar**, Git fan.
 
 j-salazarp@hotmai.com
